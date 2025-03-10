@@ -3,8 +3,6 @@ import Header from '../layout/Header'
 const  Home  = () => {
   return (
 <>
-
-<div> Home Page !!</div>
 <Header/>
 
 </>  
